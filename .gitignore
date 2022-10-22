@@ -1,6 +1,0 @@
-*.pyc
-dataset/*
-dataset
-dist
-image_search.egg-info
-**/.vscode/*
