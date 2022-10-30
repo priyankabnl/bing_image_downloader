@@ -6,7 +6,7 @@ import posixpath
 import re
 
 '''
-Python api to download image form Bing.
+Python api to download image from Bing.
 Author: Guru Prasad (g.gaurav541@gmail.com)
 '''
 
